@@ -2,17 +2,17 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+Re_avoid_Slime_in_Clipboard/[Ll]ibrary/
+Re_avoid_Slime_in_Clipboard/[Tt]emp/
+Re_avoid_Slime_in_Clipboard/[Oo]bj/
+Re_avoid_Slime_in_Clipboard/[Bb]uild/
+Re_avoid_Slime_in_Clipboard/[Bb]uilds/
+Re_avoid_Slime_in_Clipboard/[Ll]ogs/
+Re_avoid_Slime_in_Clipboard/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
-/[Mm]emoryCaptures/
+Re_avoid_Slime_in_Clipboard/[Mm]emoryCaptures/
 
 # Recordings can get excessive in size
 /[Rr]ecordings/
@@ -65,8 +65,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Packed Addressables
-/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+Re_avoid_Slime_in_Clipboard/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
+Re_avoid_Slime_in_Clipboard/[Aa]ssets/[Ss]treamingAssets/aa.meta
+Re_avoid_Slime_in_Clipboard/[Aa]ssets/[Ss]treamingAssets/aa/*
