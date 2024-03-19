@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Re_aviod_slime_in_clipboard_and_bang.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
